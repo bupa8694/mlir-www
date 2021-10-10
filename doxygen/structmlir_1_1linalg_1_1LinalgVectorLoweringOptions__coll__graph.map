@@ -1,0 +1,5 @@
+<map id="mlir::linalg::LinalgVectorLoweringOptions" name="mlir::linalg::LinalgVectorLoweringOptions">
+<area shape="rect" id="node2" href="$structmlir_1_1VectorTransferToSCFOptions.html" title="When lowering an N&#45;d vector transfer op to an (N&#45;1)&#45;d vector transfer op, a temporary buffer is creat..." alt="" coords="229,140,466,167"/>
+<area shape="rect" id="node4" href="$classunsigned.html" title="unsigned" alt="" coords="280,5,361,32"/>
+<area shape="rect" id="node5" href="$structmlir_1_1vector_1_1VectorTransformsOptions.html" title="Structure to control the behavior of vector transform patterns. " alt="" coords="543,133,762,174"/>
+</map>

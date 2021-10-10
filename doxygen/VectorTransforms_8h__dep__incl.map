@@ -1,0 +1,6 @@
+<map id="include/mlir/Dialect/Vector/VectorTransforms.h" name="include/mlir/Dialect/Vector/VectorTransforms.h">
+<area shape="rect" id="node2" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="5,102,244,143"/>
+<area shape="rect" id="node3" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="268,95,464,151"/>
+<area shape="rect" id="node4" href="$VectorTransferOpTransforms_8cpp.html" title="lib/Dialect/Vector\l/VectorTransferOpTransforms.cpp" alt="" coords="488,102,724,143"/>
+<area shape="rect" id="node5" href="$VectorTransforms_8cpp.html" title="lib/Dialect/Vector\l/VectorTransforms.cpp" alt="" coords="748,102,915,143"/>
+</map>

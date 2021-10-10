@@ -1,0 +1,15 @@
+<map id="include/mlir/Transforms/InliningUtils.h" name="include/mlir/Transforms/InliningUtils.h">
+<area shape="rect" id="node2" href="$AffineOps_8cpp.html" title="lib/Dialect/Affine\l/IR/AffineOps.cpp" alt="" coords="5,95,139,136"/>
+<area shape="rect" id="node3" href="$ArithmeticDialect_8cpp.html" title="lib/Dialect/Arithmetic\l/IR/ArithmeticDialect.cpp" alt="" coords="163,95,347,136"/>
+<area shape="rect" id="node4" href="$LinalgTypes_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgTypes.cpp" alt="" coords="371,95,517,136"/>
+<area shape="rect" id="node5" href="$MathDialect_8cpp.html" title="lib/Dialect/Math/IR\l/MathDialect.cpp" alt="" coords="541,95,683,136"/>
+<area shape="rect" id="node6" href="$MemRefDialect_8cpp.html" title="lib/Dialect/MemRef\l/IR/MemRefDialect.cpp" alt="" coords="707,95,877,136"/>
+<area shape="rect" id="node7" href="$Dialect_2SCF_2SCF_8cpp.html" title="lib/Dialect/SCF/SCF.cpp" alt="" coords="901,102,1070,129"/>
+<area shape="rect" id="node8" href="$Dialect_2Shape_2IR_2Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="1095,95,1244,136"/>
+<area shape="rect" id="node9" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVDialect.cpp" alt="" coords="1268,95,1415,136"/>
+<area shape="rect" id="node10" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="1439,95,1614,136"/>
+<area shape="rect" id="node11" href="$TensorDialect_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorDialect.cpp" alt="" coords="1638,95,1797,136"/>
+<area shape="rect" id="node12" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="1821,95,1960,136"/>
+<area shape="rect" id="node13" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="1985,102,2170,129"/>
+<area shape="rect" id="node14" href="$InliningUtils_8cpp.html" title="lib/Transforms/Utils\l/InliningUtils.cpp" alt="" coords="2194,95,2342,136"/>
+</map>

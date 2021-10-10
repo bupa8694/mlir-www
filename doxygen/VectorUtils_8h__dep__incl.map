@@ -1,0 +1,14 @@
+<map id="include/mlir/Dialect/Vector/VectorUtils.h" name="include/mlir/Dialect/Vector/VectorUtils.h">
+<area shape="rect" id="node2" href="$VectorTransforms_8h.html" title="include/mlir/Dialect\l/Vector/VectorTransforms.h" alt="" coords="440,95,636,136"/>
+<area shape="rect" id="node5" href="$VectorTransferOpTransforms_8cpp.html" title="lib/Dialect/Vector\l/VectorTransferOpTransforms.cpp" alt="" coords="488,191,724,233"/>
+<area shape="rect" id="node6" href="$VectorTransforms_8cpp.html" title="lib/Dialect/Vector\l/VectorTransforms.cpp" alt="" coords="748,191,915,233"/>
+<area shape="rect" id="node7" href="$VectorToGPU_8cpp.html" title="lib/Conversion/VectorToGPU\l/VectorToGPU.cpp" alt="" coords="762,95,965,136"/>
+<area shape="rect" id="node8" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="989,95,1188,136"/>
+<area shape="rect" id="node9" href="$SuperVectorize_8cpp.html" title="lib/Dialect/Affine\l/Transforms/SuperVectorize.cpp" alt="" coords="1213,95,1439,136"/>
+<area shape="rect" id="node10" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1464,95,1647,136"/>
+<area shape="rect" id="node11" href="$HoistPadding_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/HoistPadding.cpp" alt="" coords="1671,95,1885,136"/>
+<area shape="rect" id="node12" href="$VectorOps_8cpp.html" title="lib/Dialect/Vector\l/VectorOps.cpp" alt="" coords="1910,95,2043,136"/>
+<area shape="rect" id="node13" href="$VectorUtils_8cpp.html" title="lib/Dialect/Vector\l/VectorUtils.cpp" alt="" coords="2067,95,2201,136"/>
+<area shape="rect" id="node3" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="5,191,244,233"/>
+<area shape="rect" id="node4" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="268,184,464,240"/>
+</map>

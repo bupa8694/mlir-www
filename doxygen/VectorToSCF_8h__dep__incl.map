@@ -1,0 +1,35 @@
+<map id="include/mlir/Conversion/VectorToSCF/VectorToSCF.h" name="include/mlir/Conversion/VectorToSCF/VectorToSCF.h">
+<area shape="rect" id="node2" href="$Conversion_2Passes_8h.html" title="include/mlir/Conversion\l/Passes.h" alt="" coords="151,95,327,136"/>
+<area shape="rect" id="node6" href="$CodegenStrategy_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/CodegenStrategy.h" alt="" coords="456,281,723,322"/>
+<area shape="rect" id="node8" href="$Dialect_2Linalg_2Transforms_2Transforms_8h.html" title="include/mlir/Dialect\l/Linalg/Transforms/Transforms.h" alt="" coords="2316,95,2545,136"/>
+<area shape="rect" id="node11" href="$LinalgToLLVM_8cpp.html" title="lib/Conversion/LinalgToLLVM\l/LinalgToLLVM.cpp" alt="" coords="227,281,432,322"/>
+<area shape="rect" id="node34" href="$VectorToSCF_8cpp.html" title="lib/Conversion/VectorToSCF\l/VectorToSCF.cpp" alt="" coords="2570,95,2769,136"/>
+<area shape="rect" id="node3" href="$InitAllPasses_8h.html" title="include/mlir/InitAllPasses.h" alt="" coords="5,288,203,315"/>
+<area shape="rect" id="node5" href="$Conversion_2Passes_8cpp.html" title="lib/CAPI/Conversion\l/Passes.cpp" alt="" coords="164,184,313,225"/>
+<area shape="rect" id="node4" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="27,377,181,419"/>
+<area shape="rect" id="node7" href="$CodegenStrategy_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/CodegenStrategy.cpp" alt="" coords="1035,377,1274,419"/>
+<area shape="rect" id="node9" href="$Dialect_2Linalg_2Passes_8h.html" title="include/mlir/Dialect\l/Linalg/Passes.h" alt="" coords="2603,184,2752,225"/>
+<area shape="rect" id="node12" href="$Dialect_2Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="936,281,1123,322"/>
+<area shape="rect" id="node13" href="$ComprehensiveBufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize.cpp" alt="" coords="1147,281,1437,322"/>
+<area shape="rect" id="node15" href="$DropUnitDims_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/DropUnitDims.cpp" alt="" coords="1461,281,1683,322"/>
+<area shape="rect" id="node16" href="$ElementwiseOpFusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseOpFusion.cpp" alt="" coords="2248,281,2520,322"/>
+<area shape="rect" id="node17" href="$ElementwiseToLinalg_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ElementwiseToLinalg.cpp" alt="" coords="2544,281,2811,322"/>
+<area shape="rect" id="node18" href="$Fusion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Fusion.cpp" alt="" coords="2835,281,3005,322"/>
+<area shape="rect" id="node19" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="3029,281,3267,322"/>
+<area shape="rect" id="node20" href="$Generalization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Generalization.cpp" alt="" coords="3291,281,3515,322"/>
+<area shape="rect" id="node21" href="$InlineScalarOperands_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/InlineScalarOperands.cpp" alt="" coords="3539,281,3805,322"/>
+<area shape="rect" id="node22" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="3830,273,4026,329"/>
+<area shape="rect" id="node23" href="$Loops_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Loops.cpp" alt="" coords="4050,281,4217,322"/>
+<area shape="rect" id="node24" href="$Promotion_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Promotion.cpp" alt="" coords="4241,281,4437,322"/>
+<area shape="rect" id="node25" href="$Tiling_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Tiling.cpp" alt="" coords="747,281,912,322"/>
+<area shape="rect" id="node26" href="$LinalgToStandard_8cpp.html" title="lib/Conversion/LinalgToStandard\l/LinalgToStandard.cpp" alt="" coords="593,184,823,225"/>
+<area shape="rect" id="node27" href="$Distribution_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Distribution.cpp" alt="" coords="848,184,1053,225"/>
+<area shape="rect" id="node28" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1078,184,1261,225"/>
+<area shape="rect" id="node29" href="$HoistPadding_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/HoistPadding.cpp" alt="" coords="1285,184,1499,225"/>
+<area shape="rect" id="node30" href="$Interchange_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Interchange.cpp" alt="" coords="1523,184,1730,225"/>
+<area shape="rect" id="node31" href="$Dialect_2Linalg_2Transforms_2Transforms_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Transforms.cpp" alt="" coords="1754,184,1955,225"/>
+<area shape="rect" id="node32" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="1979,184,2194,225"/>
+<area shape="rect" id="node33" href="$Dialect_2SparseTensor_2Transforms_2SparseTensorPasses_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorPasses.cpp" alt="" coords="2219,184,2477,225"/>
+<area shape="rect" id="node10" href="$CAPI_2Dialect_2LinalgPasses_8cpp.html" title="lib/CAPI/Dialect/LinalgPasses.cpp" alt="" coords="1757,288,1993,315"/>
+<area shape="rect" id="node14" href="$Detensorize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Detensorize.cpp" alt="" coords="2017,281,2223,322"/>
+</map>

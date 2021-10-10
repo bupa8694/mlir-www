@@ -1,0 +1,6 @@
+<map id="llvm::iterator_range&lt; IteratorT &gt;" name="llvm::iterator_range&lt; IteratorT &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1iterator__range.html" title="llvm::iterator_range\l\&lt; ValueTypeIterator\&lt;\l ValueRangeT::iterator \&gt; \&gt;" alt="" coords="407,5,603,61"/>
+<area shape="rect" id="node4" href="$classllvm_1_1iterator__range.html" title="llvm::iterator_range\l\&lt; TypeRangeRangeIterator \&gt;" alt="" coords="399,86,611,127"/>
+<area shape="rect" id="node3" href="$classmlir_1_1ValueTypeRange.html" title="This class implements iteration on the types of a given range of values. " alt="" coords="663,13,825,54"/>
+<area shape="rect" id="node5" href="$classmlir_1_1TypeRangeRange.html" title="This class provides an abstraction for a range of TypeRange. " alt="" coords="660,93,828,120"/>
+</map>

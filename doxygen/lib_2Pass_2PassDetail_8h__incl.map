@@ -1,0 +1,33 @@
+<map id="lib/Pass/PassDetail.h" name="lib/Pass/PassDetail.h">
+<area shape="rect" id="node2" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="4072,80,4199,107"/>
+<area shape="rect" id="node46" href="$PassManager_8h.html" title="mlir/Pass/PassManager.h" alt="" coords="4621,155,4802,181"/>
+<area shape="rect" id="node3" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="933,304,1081,331"/>
+<area shape="rect" id="node18" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="3272,229,3399,256"/>
+<area shape="rect" id="node34" href="$AnalysisManager_8h.html" title="mlir/Pass/AnalysisManager.h" alt="" coords="3481,155,3688,181"/>
+<area shape="rect" id="node39" href="$PassRegistry_8h.html" title="mlir/Pass/PassRegistry.h" alt="" coords="3984,155,4161,181"/>
+<area shape="rect" id="node41" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="4311,304,4515,331"/>
+<area shape="rect" id="node4" href="$FunctionSupport_8h.html" title="mlir/IR/FunctionSupport.h" alt="" coords="5,386,191,413"/>
+<area shape="rect" id="node5" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="215,386,418,413"/>
+<area shape="rect" id="node6" href="$OwningOpRef_8h.html" title="mlir/IR/OwningOpRef.h" alt="" coords="442,386,610,413"/>
+<area shape="rect" id="node7" href="$RegionKindInterface_8h.html" title="mlir/IR/RegionKindInterface.h" alt="" coords="635,386,847,413"/>
+<area shape="rect" id="node8" href="$SymbolTable_8h.html" title="mlir/IR/SymbolTable.h" alt="" coords="1000,468,1164,495"/>
+<area shape="rect" id="node11" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="971,386,1193,413"/>
+<area shape="rect" id="node13" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="1218,386,1445,413"/>
+<area shape="rect" id="node14" href="$DataLayoutInterfaces_8h.html" title="mlir/Interfaces/DataLayout\lInterfaces.h" alt="" coords="1469,379,1665,420"/>
+<area shape="rect" id="node16" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="1690,379,1877,420"/>
+<area shape="rect" id="node9" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="1976,543,2121,569"/>
+<area shape="rect" id="node19" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="2635,304,2830,331"/>
+<area shape="rect" id="node29" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="3362,468,3525,495"/>
+<area shape="rect" id="node20" href="$BlockSupport_8h.html" title="mlir/IR/BlockSupport.h" alt="" coords="2248,386,2415,413"/>
+<area shape="rect" id="node21" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="2450,468,2567,495"/>
+<area shape="rect" id="node22" href="$Types_8h.html" title="mlir/IR/Types.h" alt="" coords="2545,543,2664,569"/>
+<area shape="rect" id="node25" href="$Identifier_8h.html" title="mlir/IR/Identifier.h" alt="" coords="2717,386,2855,413"/>
+<area shape="rect" id="node26" href="$Location_8h.html" title="mlir/IR/Location.h" alt="" coords="2745,468,2881,495"/>
+<area shape="rect" id="node27" href="$TypeRange_8h.html" title="mlir/IR/TypeRange.h" alt="" coords="2490,386,2642,413"/>
+<area shape="rect" id="node28" href="$InterfaceSupport_8h.html" title="mlir/Support/InterfaceSupport.h" alt="" coords="2930,386,3157,413"/>
+<area shape="rect" id="node23" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="3637,543,3788,569"/>
+<area shape="rect" id="node35" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="2919,229,3064,256"/>
+<area shape="rect" id="node36" href="$PassInstrumentation_8h.html" title="mlir/Pass/PassInstrumentation.h" alt="" coords="3597,304,3828,331"/>
+<area shape="rect" id="node40" href="$PassOptions_8h.html" title="mlir/Pass/PassOptions.h" alt="" coords="4087,229,4263,256"/>
+<area shape="rect" id="node47" href="$Timing_8h.html" title="mlir/Support/Timing.h" alt="" coords="4653,229,4815,256"/>
+</map>

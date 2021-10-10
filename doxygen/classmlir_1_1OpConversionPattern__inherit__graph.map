@@ -1,0 +1,15 @@
+<map id="mlir::OpConversionPattern&lt; SourceOp &gt;" name="mlir::OpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node5" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; AssertOp \&gt;" alt="" coords="953,5,1147,47"/>
+<area shape="rect" id="node7" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; OpTy \&gt;" alt="" coords="953,71,1147,112"/>
+<area shape="rect" id="node9" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ReturnOp \&gt;" alt="" coords="953,136,1147,177"/>
+<area shape="rect" id="node11" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SPIRVOp \&gt;" alt="" coords="953,201,1147,243"/>
+<area shape="rect" id="node13" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; async::YieldOp \&gt;" alt="" coords="953,267,1147,308"/>
+<area shape="rect" id="node2" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="357,143,532,170"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,143,308,170"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,143,108,170"/>
+<area shape="rect" id="node6" href="$classAssertOpLowering.html" title="AssertOpLowering" alt="" coords="1233,13,1373,39"/>
+<area shape="rect" id="node8" href="$classForwardOperands.html" title="ForwardOperands\&lt; OpTy \&gt;" alt="" coords="1203,78,1402,105"/>
+<area shape="rect" id="node10" href="$classReturnOpTypeConversion.html" title="ReturnOpTypeConversion" alt="" coords="1210,143,1395,170"/>
+<area shape="rect" id="node12" href="$classmlir_1_1SPIRVToLLVMConversion.html" title="mlir::SPIRVToLLVMConversion\l\&lt; SPIRVOp \&gt;" alt="" coords="1196,201,1409,243"/>
+<area shape="rect" id="node14" href="$classYieldOpLowering.html" title="YieldOpLowering" alt="" coords="1237,274,1368,301"/>
+</map>
